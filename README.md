@@ -3,5 +3,5 @@
 </h1>
 
 <p>
-    This was done as part of the first lab session for the Web Applications Development class
+    This was done as part of the first and second lab sessions for the Web Applications Development class
 </p>
